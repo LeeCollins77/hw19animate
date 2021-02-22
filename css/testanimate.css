@@ -1,10 +1,37 @@
-
 body {
-background-image:url(../images/ch1.png);
+
+    body {
+        background-image: url(https://leecollins77.github.io/hw19animate/images/ch2.png);
+      }
+
+
+    /*    
+background-image:url(https://leecollins77.github.io/hw19animate/images/ch1.png);
   background-repeat:no-repeat;
+*/
   
     font-family: 'Belleza-Regular', sans-serif;
 }
+
+
+/*
+#myLogo {
+    opacity: 1;
+    -webkit-transition: opacity 0.9s ease-in;
+    -moz-transition: opacity 0.9s ease-out;
+   -ms-transition: opacity 0.7s ease-in-out;
+    -o-transition: opacity: 0.7s ease-in-out;
+    
+    transition: opacity 0.7s ease-in-out;
+
+    
+}
+
+myLogo.fade {
+    opacity:0;
+}
+*/
+
 
 h1 {
     font-family: 'Vogue', sans-serif;
@@ -60,6 +87,11 @@ h2 {
   font-size: 16px;
   text-decoration: none;
   color: #7B7B80;
+}
+
+a:hover {
+    color: #cc3300;
+    font-size: 24px;
 }
 
 
